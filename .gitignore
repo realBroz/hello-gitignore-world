@@ -8,3 +8,6 @@ z*
 
 # Ignores a top-level directory named artifacts.
 /artifacts/
+
+#ignore sensitive-date file
+sensitive-data.txt
